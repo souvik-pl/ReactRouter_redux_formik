@@ -1,6 +1,6 @@
 # ReactRouter_redux_formik
 
-In this exercise, a react application has been created using React router and Context API.
+In this exercise, a react application has been created using React router, redux and Formik.
 
 The source code is available in the 'src' directory in this repository.
 
